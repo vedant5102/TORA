@@ -160,4 +160,8 @@ Latency: **< 100ms**
 
 ---
 
-
+## Team
+- Mayur Gotmare: core programming and model training
+- Vedant Katre: architecture design, controller logic, documentation
+- Gaurav Thakur: testing, debugging, result analysis
+- Noman Kanoje: dataset preparation and interface design
